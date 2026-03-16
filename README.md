@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04a5e5,100:209fb5&height=200&section=header&text=Magnus%20Hinzke&fontSize=50&fontColor=eff1f5&desc=Unternehmer%20%7C%20Digital&descSize=20&descAlignY=75&animation=fadeIn" width="100%" />
-
 <!-- Typing SVG -->
 <a href="https://github.com/MagnusHL"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04a5e5&center=true&vCenter=true&width=600&lines=Unternehmer+aus+L%C3%BCbeck;Was+automatisiert+werden+kann%2C+wird+automatisiert;Machen+statt+Reden" alt="Typing SVG" /></a>
 
@@ -54,5 +51,3 @@ Mir geht es um Prozesse. Infrastruktur ist Mittel zum Zweck. Was automatisiert w
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04a5e5,100:209fb5&height=120&section=footer" width="100%" />
