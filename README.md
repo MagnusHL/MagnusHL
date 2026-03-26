@@ -7,9 +7,9 @@
 
 <br/>
 
-Grew up with printer's ink, equally at home on the command line today. Second-generation print shop, building a digital arm alongside. I'd rather build than wait.
-
-Most admins have never run a company. Most CEOs can't set up a Linux server. I do both.
+> Grew up with printer's ink, equally at home on the command line today. Second-generation print shop, building a digital arm alongside. I'd rather build than wait.
+>
+> Most admins have never run a company. Most CEOs can't set up a Linux server. I do both.
 
 <div align="center">
 
@@ -19,19 +19,17 @@ Most admins have never run a company. Most CEOs can't set up a Linux server. I d
 
 </div>
 
----
+### Business
 
-**Volker Hinzke GmbH** -- Print shop in Lübeck. Variable data printing, reprography, media production, textile printing, signage. [hinzke.de](https://hinzke.de)
+- **[Volker Hinzke GmbH](https://hinzke.de)** -- Print shop in Lübeck. Variable data printing, reprography, media production.
+- **[Hinzke Digital](https://hinzke.digital)** -- E-commerce and automation for SMBs.
 
-**Hinzke Digital** -- E-commerce and automation for SMBs. Together with my partner Mirco. [hinzke.digital](https://hinzke.digital)
+### Projects
 
----
+- **[FlowBoost](https://www.flowboost.ai/)** -- AI agents for brand-safe content, from strategy to publishing.
+- **[DesklyKnowledgeBase](https://github.com/MagnusHL/DesklyKnowledgeBase)** -- Knowledge Base & Help Center plugin for Shopware 6.
 
-**[FlowBoost](https://www.flowboost.ai/)** -- AI system for brand-safe content. Intelligent agents from strategy to publishing.
-
-**[DesklyKnowledgeBase](https://github.com/MagnusHL/DesklyKnowledgeBase)** -- API-first Knowledge Base & Help Center plugin for Shopware 6. SEO-optimized articles, FAQ CMS elements, automation-ready API.
-
----
+### Stack
 
 It's about processes. Infrastructure is a means to an end. If it can be automated, it will be.
 
