@@ -19,17 +19,16 @@
 
 </div>
 
-### Business
-
-- **[Volker Hinzke GmbH](https://hinzke.de)** -- Print shop in Lübeck. Variable data printing, reprography, media production.
-- **[Hinzke Digital](https://hinzke.digital)** -- E-commerce and automation for SMBs.
-
 ### Projects
 
 - **[FlowBoost](https://www.flowboost.ai/)** -- AI agents for brand-safe content, from strategy to publishing.
 - **[DesklyKnowledgeBase](https://github.com/MagnusHL/DesklyKnowledgeBase)** -- Knowledge Base & Help Center plugin for Shopware 6.
-- **[hinzke.digital](https://github.com/MagnusHL/hinzke-digital)** -- Digital services and automation for SMBs. Built with Astro.
 - **[hinzke.rocks](https://github.com/MagnusHL/hinzke-rocks)** -- Personal website.
+
+### Business
+
+- **[Volker Hinzke GmbH](https://hinzke.de)** -- Print shop in Lübeck. Variable data printing, reprography, media production.
+- **[Hinzke Digital](https://hinzke.digital)** -- E-commerce and automation for SMBs.
 
 ### Stack
 
